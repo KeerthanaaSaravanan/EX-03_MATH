@@ -1,4 +1,4 @@
-# INVERSE-OF-A-MATRIX
+# EX-03: INVERSE-OF-A-MATRIX
 
 ## Aim:
 To write a python program to find the inverse of a matrix
@@ -30,7 +30,7 @@ print(b)
 
 ## Output:
 
-![Alt text](<Screenshot 2023-11-23 112732.png>)
+![image](https://github.com/KeerthanaaSaravanan/EX-03_MATH/assets/145742596/88f17e35-22d8-4e03-91b5-faa4f26f2511)
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
